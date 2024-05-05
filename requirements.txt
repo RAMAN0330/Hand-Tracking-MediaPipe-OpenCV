@@ -1,0 +1,5 @@
+mediapipe
+opencv-python
+opencv-contrib-python
+opencv-contrib-python-headless
+opencv-python-headless
